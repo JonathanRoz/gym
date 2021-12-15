@@ -116,7 +116,8 @@ $(".man-sliderr").slick({
             dots:false,
             arrows:true,
             prevArrow:'<i class="fas fa-chevron-left prv"></i>',
-            nextArrow:'<i class="fas fa-chevron-right net"></i>'
+            nextArrow:'<i class="fas fa-chevron-right net"></i>',
+            autoplay: false,
           }
         },
         {
@@ -127,7 +128,8 @@ $(".man-sliderr").slick({
             dots:false,
             arrows:true,
             prevArrow:'<i class="fas fa-chevron-left prv"></i>',
-            nextArrow:'<i class="fas fa-chevron-right net"></i>'
+            nextArrow:'<i class="fas fa-chevron-right net"></i>',
+            autoplay: false,
           }
         }
         // You can unslick at a given breakpoint now by adding:
